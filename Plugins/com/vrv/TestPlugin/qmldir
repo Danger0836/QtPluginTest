@@ -1,4 +1,4 @@
 module com.vrv.TestPlugin
 Plugin TestPlguin
-MyRect 1.0 MyRect.qml
 typeinfo plugin.qmltypes
+MyRect 1.0 ./MyRect.qml
